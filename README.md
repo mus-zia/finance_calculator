@@ -22,4 +22,4 @@ For the "Bond" calculator, you will be asked to enter the current value of the h
 For the "Investment" calculator, you will need to enter the amount you are depositing, the interest rate, the number of years you will be investing, and whether the interest is 'simple' or 'compound'. The application will then calculate and display the future value of your investment.
 
 ## Credits
-The Financial Calculator was developed by [Mus Zia]. If you have any questions, issues, or would like to contribute to the project, please feel free to reach out.
+The Financial Calculator was developed by Mus Zia. If you have any questions, issues, or would like to contribute to the project, please feel free to reach out.
